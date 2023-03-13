@@ -29,6 +29,7 @@ const About = () => {
               <AiOutlineFundProjectionScreen className='about__icon'/>
               <h5>Projects</h5>
               <small>2 Official Projects</small>
+              <br></br>
               <small>1 Unofficial Project</small>
             </article>
           </div>
