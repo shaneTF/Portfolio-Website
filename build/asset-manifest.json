@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.29c0c58e.css",
+    "main.js": "/Portfolio-Website/static/js/main.7b09876c.js",
+    "static/media/173640-L.jpg": "/Portfolio-Website/static/media/173640-L.2db46c45349ee427147c.jpg",
+    "static/media/Knuten-sunrise-winter-e1511472557708.webp": "/Portfolio-Website/static/media/Knuten-sunrise-winter-e1511472557708.0bb49742f374267556c0.webp",
+    "static/media/wood-like-bg.jpg": "/Portfolio-Website/static/media/wood-like-bg.61e8074c2908d7bbb4a0.jpg",
+    "static/media/mountains-55067__340.webp": "/Portfolio-Website/static/media/mountains-55067__340.bcf3f98d848f5af34ff7.webp",
+    "static/media/ShaneFranklin_Resume_Current.pdf": "/Portfolio-Website/static/media/ShaneFranklin_Resume_Current.fa85ab9d5c7ccac233fc.pdf",
+    "static/media/52.jpg": "/Portfolio-Website/static/media/52.dc6f7ffcd2550ed7d3b6.jpg",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.29c0c58e.css.map": "/Portfolio-Website/static/css/main.29c0c58e.css.map",
+    "main.7b09876c.js.map": "/Portfolio-Website/static/js/main.7b09876c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c0c58e.css",
+    "static/js/main.7b09876c.js"
+  ]
+}
