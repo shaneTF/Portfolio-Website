@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.7746b995.css",
-    "main.js": "/Portfolio-Website/static/js/main.3153f20f.js",
+    "main.js": "/Portfolio-Website/static/js/main.9421cec3.js",
     "static/media/173640-L.jpg": "/Portfolio-Website/static/media/173640-L.2db46c45349ee427147c.jpg",
     "static/media/Knuten-sunrise-winter-e1511472557708.webp": "/Portfolio-Website/static/media/Knuten-sunrise-winter-e1511472557708.0bb49742f374267556c0.webp",
     "static/media/wood-like-bg.jpg": "/Portfolio-Website/static/media/wood-like-bg.61e8074c2908d7bbb4a0.jpg",
@@ -11,10 +11,10 @@
     "static/media/website-design-2.png": "/Portfolio-Website/static/media/website-design-2.be9c3bffabec77622701.png",
     "index.html": "/Portfolio-Website/index.html",
     "main.7746b995.css.map": "/Portfolio-Website/static/css/main.7746b995.css.map",
-    "main.3153f20f.js.map": "/Portfolio-Website/static/js/main.3153f20f.js.map"
+    "main.9421cec3.js.map": "/Portfolio-Website/static/js/main.9421cec3.js.map"
   },
   "entrypoints": [
     "static/css/main.7746b995.css",
-    "static/js/main.3153f20f.js"
+    "static/js/main.9421cec3.js"
   ]
 }
